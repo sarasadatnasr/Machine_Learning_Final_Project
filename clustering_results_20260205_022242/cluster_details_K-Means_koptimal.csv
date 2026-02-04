@@ -1,0 +1,15 @@
+cluster_id,size,dominant_language,purity,language_distribution
+2,335,Korean,0.6746268656716418,"{'Korean': 226, 'German': 108, 'Italian': 1}"
+5,331,Italian,0.2719033232628399,"{'Italian': 90, 'Spanish': 88, 'German': 80, 'Korean': 73}"
+1,271,German,0.996309963099631,"{'German': 270, 'Italian': 1}"
+7,271,Italian,1.0,{'Italian': 271}
+0,246,Italian,1.0,{'Italian': 246}
+10,245,Spanish,0.7428571428571429,"{'Spanish': 182, 'Korean': 63}"
+8,199,Korean,0.5326633165829145,"{'Korean': 106, 'German': 92, 'Italian': 1}"
+3,180,Spanish,1.0,{'Spanish': 180}
+6,178,Korean,1.0,{'Korean': 178}
+9,172,Spanish,0.5232558139534884,"{'Spanish': 90, 'Italian': 82}"
+12,138,German,1.0,{'German': 138}
+4,118,Spanish,0.7627118644067796,"{'Spanish': 90, 'Italian': 28}"
+11,90,Spanish,1.0,{'Spanish': 90}
+13,74,Korean,1.0,{'Korean': 74}
