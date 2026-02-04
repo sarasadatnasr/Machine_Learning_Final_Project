@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "classification": {
+      "best_model": "Logistic Regression",
+      "test_accuracy": 0.9884393063583816,
+      "train_accuracy": 1.0,
+      "generalization_gap": 0.0115606936416184
+    },
+    "clustering": {
+      "best_algorithm": "DBSCAN (eps=2.5)",
+      "clusters_found": 16,
+      "silhouette_score": -0.15917732170190454,
+      "cluster_purity": 1.0
+    }
+  },
+  "timestamp": "2026-02-05T02:35:14.788642",
+  "classification_details": {
+    "best_model": "Logistic Regression",
+    "best_accuracy": 0.9884393063583815
+  },
+  "clustering_details": {
+    "best_algorithm": "DBSCAN (eps=2.5)",
+    "true_languages": [
+      "German",
+      "Italian",
+      "Korean",
+      "Spanish"
+    ]
+  }
+}
