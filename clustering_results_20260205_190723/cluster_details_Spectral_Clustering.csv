@@ -1,0 +1,5 @@
+cluster_id,size,dominant_language,purity,language_distribution
+0,2680,German,0.25671641791044775,"{'German': 688, 'Korean': 682, 'Spanish': 680, 'Italian': 630}"
+1,100,Italian,0.9,"{'Italian': 90, 'Spanish': 10}"
+2,58,Spanish,0.5172413793103449,"{'Spanish': 30, 'Korean': 28}"
+3,10,Korean,1.0,{'Korean': 10}
