@@ -1,0 +1,15 @@
+cluster_id,size,dominant_language,purity,language_distribution
+7,68,Korean,1.0,{'Korean': 68}
+8,60,Korean,1.0,{'Korean': 60}
+3,54,Korean,1.0,{'Korean': 54}
+1,37,Italian,1.0,{'Italian': 37}
+9,37,Korean,1.0,{'Korean': 37}
+11,26,Spanish,1.0,{'Spanish': 26}
+0,21,German,1.0,{'German': 21}
+10,21,Spanish,1.0,{'Spanish': 21}
+12,20,Spanish,1.0,{'Spanish': 20}
+6,13,Korean,1.0,{'Korean': 13}
+2,12,Italian,1.0,{'Italian': 12}
+13,12,Spanish,1.0,{'Spanish': 12}
+4,11,Korean,1.0,{'Korean': 11}
+5,11,Korean,1.0,{'Korean': 11}
